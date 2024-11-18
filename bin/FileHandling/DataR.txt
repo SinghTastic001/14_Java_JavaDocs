@@ -1,0 +1,1 @@
+Count of elements in line: 15
